@@ -1,7 +1,7 @@
 # MoulayeHaidara
 ### Bonjour et bienvenue ! 👋
 
-Je suis actuellement étudiant en **Licence 2 Informatique Appliquée à la Gestion** et je me spécialise vers le métier de **Data Analyst**.
+Je suis actuellement étudiant en **Licence 2 Informatique Appliquée à la Gestion des Entreprises ** et je me spécialise vers le métier de **Data Analyst**.
 
 🌱 **Mon apprentissage actuel**
 - Je suis un parcours complet sur **Udemy** pour maîtriser l'analyse de données.
